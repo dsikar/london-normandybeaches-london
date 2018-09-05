@@ -44,6 +44,6 @@ Note the original 4 stages include an attempt to simplify tracks to 500 nodes, w
 03bNBAmfreville.gpx    
 03cNBAmfrevilleLong.gpx    
 03cNBAmfrevilleShort.gpx  
-04aNBPortsmouth.gpx
+04aNBPortsmouth.gpx  
 04bNBPortsmouth.gpx
 
